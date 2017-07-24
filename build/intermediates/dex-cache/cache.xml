@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_0026d714b29b0180073c795377987ef2ca1dbbda.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_0026d714b29b0180073c795377987ef2ca1dbbda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f3f75f4c809e8f86330214e2d2858c80d513867">
+        <dex dex="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6c9f864cac9ec884adb8f956dfbf97f7074bdf0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_4ad42a306dec9ec98c69a3719f8c930a9c2ddfbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_4ad42a306dec9ec98c69a3719f8c930a9c2ddfbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_d2402f6c58786a72f1009378d7e0b8e6d4dd3b56.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_d2402f6c58786a72f1009378d7e0b8e6d4dd3b56\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.0.0_8abe4269feed86094968dc8afded8c4949ecd4c8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_84529286ed7dc4ef0a6f6c0ed85dadd4a96d3669\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.0.0_8abe4269feed86094968dc8afded8c4949ecd4c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_84529286ed7dc4ef0a6f6c0ed85dadd4a96d3669.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_f954c004dec154dbff5e5c4931d431fe1c6b742d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_f954c004dec154dbff5e5c4931d431fe1c6b742d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\mayuSoftwares\android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_a2a0201dd31e3519c8e56cdce585dca56b239400.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_1bc2b546f6be40853d9df5e2e31f772e05a2ed16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_369a4c2067d01316175b5337c261a04416ee633c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_1bc2b546f6be40853d9df5e2e31f772e05a2ed16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_369a4c2067d01316175b5337c261a04416ee633c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_ddb3dab4a16ff5b9603292eab39f07c3c2f58b95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\exploded-aar\com.rmtheis\tess-two\5.4.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="921b1c4306b10e7de53574523eb7f7144bd0707f">
+        <dex dex="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.rmtheis-tess-two-5.4.1_9f0d484278653d3fdd5e84c06debffed83c0f930\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_ddb3dab4a16ff5b9603292eab39f07c3c2f58b95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_39c291221da2c802b010b53b4d310c31de55d523.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_39c291221da2c802b010b53b4d310c31de55d523\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f13374e3c0242dbcf0e9f33fec02c60d8aff03">
+        <dex dex="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3e6c715188e458111592ad080d931c8d750348f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\mayuSoftwares\android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="D:\mayuSoftwares\android\android_applications\MyCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_a2a0201dd31e3519c8e56cdce585dca56b239400\classes.dex" />
+    </item>
+
+</items>
